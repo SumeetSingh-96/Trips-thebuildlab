@@ -206,7 +206,7 @@ function CalculationDashboard() {
   return (
     <div className="calculation-container">
       <div className="calculation-header">
-        <h2>💰 Trip Calculations & Settlements</h2>
+        <h2> Trip Calculations & Settlements</h2>
         <p>Logged as: <strong>{currentUserData.userName}</strong></p>
       </div>
 
